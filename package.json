@@ -1,0 +1,31 @@
+{
+  "name": "GruntBoilerplate",
+  "version": "0.0.1",
+  "description": "Grunt Boilerplate",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattTurnure/GruntBoilerplate.git"
+  },
+  "keywords": [
+    "grunt",
+    "boilerplate"
+  ],
+  "author": "Matt Turnure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattTurnure/GruntBoilerplate/issues"
+  },
+  "homepage": "https://github.com/MattTurnure/GruntBoilerplate",
+  "devDependencies": {
+    "grunt-bower-task": "^0.4.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-imagemin": "^0.9.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-includes": "^0.4.5"
+  }
+}
