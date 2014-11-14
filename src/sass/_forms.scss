@@ -3,7 +3,8 @@ form {
         @extend h3;
 
         + ul,
-        + ol {
+        + ol,
+        + p {
             margin-top: 0;
 
             > li {
